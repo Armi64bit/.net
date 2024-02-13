@@ -1,0 +1,15 @@
+C:\Users\Armi\source\repos\AirportManagement\AM.Core.Services\bin\Debug\net8.0\AM.Core.Services.deps.json
+C:\Users\Armi\source\repos\AirportManagement\AM.Core.Services\bin\Debug\net8.0\AM.Core.Services.dll
+C:\Users\Armi\source\repos\AirportManagement\AM.Core.Services\bin\Debug\net8.0\AM.Core.Services.pdb
+C:\Users\Armi\source\repos\AirportManagement\AM.Core.Services\bin\Debug\net8.0\AM.Core.Domain.dll
+C:\Users\Armi\source\repos\AirportManagement\AM.Core.Services\bin\Debug\net8.0\AM.Core.Domain.pdb
+C:\Users\Armi\source\repos\AirportManagement\AM.Core.Services\obj\Debug\net8.0\AM.Core.Services.csproj.AssemblyReference.cache
+C:\Users\Armi\source\repos\AirportManagement\AM.Core.Services\obj\Debug\net8.0\AM.Core.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Armi\source\repos\AirportManagement\AM.Core.Services\obj\Debug\net8.0\AM.Core.Services.AssemblyInfoInputs.cache
+C:\Users\Armi\source\repos\AirportManagement\AM.Core.Services\obj\Debug\net8.0\AM.Core.Services.AssemblyInfo.cs
+C:\Users\Armi\source\repos\AirportManagement\AM.Core.Services\obj\Debug\net8.0\AM.Core.Services.csproj.CoreCompileInputs.cache
+C:\Users\Armi\source\repos\AirportManagement\AM.Core.Services\obj\Debug\net8.0\AM.Core.Services.csproj.CopyComplete
+C:\Users\Armi\source\repos\AirportManagement\AM.Core.Services\obj\Debug\net8.0\AM.Core.Services.dll
+C:\Users\Armi\source\repos\AirportManagement\AM.Core.Services\obj\Debug\net8.0\refint\AM.Core.Services.dll
+C:\Users\Armi\source\repos\AirportManagement\AM.Core.Services\obj\Debug\net8.0\AM.Core.Services.pdb
+C:\Users\Armi\source\repos\AirportManagement\AM.Core.Services\obj\Debug\net8.0\ref\AM.Core.Services.dll
